@@ -1,4 +1,5 @@
 # Sonic Log Prediction
+Note: The original las files where downloaded from the University Lands website.
 
 ![000](https://user-images.githubusercontent.com/7488991/58281977-14c57100-7d6a-11e9-9b71-26d00a8283a2.png)
 ![002](https://user-images.githubusercontent.com/7488991/58281978-14c57100-7d6a-11e9-8f4b-35fb78b48f87.png)
