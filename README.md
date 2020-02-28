@@ -1,4 +1,3 @@
-# Sonic Log Prediction
 
 Note: The original las files where downloaded from the University Lands website. 
 
